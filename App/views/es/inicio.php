@@ -24,7 +24,7 @@
       </div>
     </header>
 
-    <main>
+        <main>
 
       <section>
         <!-- Sección de Presentación de la empresa -->

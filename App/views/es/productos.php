@@ -12,7 +12,6 @@
   </head>
   <body>
     <?php require app_path('includes/es/nav.php'); ?>
-    
     <?php require app_path('includes/es/footer.php'); ?>
 </body>
 </html>

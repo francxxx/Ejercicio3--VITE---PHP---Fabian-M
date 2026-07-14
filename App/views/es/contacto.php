@@ -27,7 +27,7 @@
 
         <section>
 
-            <h2>ESTE SOY YO</h2>
+            <h2>Mis servicios</h2>
             <!-- Artículo 13-->
             <article class="art13">
                 <img
@@ -44,7 +44,7 @@
                     src="<?= asset('assets/img/test/dummy_1200.avif') ?>"          
                 >
                 <div>
-                    <h3>Artículo 13 · Variante 01</h3>
+                    <h3>DISEÑO GRÁFICO</h3>
                     <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Neo eligendi veritatis codicem et simulacrum. Morpheus quaerat optionem, pillula rubra aperiam systema et realitatem.</p>
                     <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Agent Smith erroribus reiciendis et Zion libertatem defendit.</p>
                     <a href="#" class="boton">CTA</a>
@@ -67,7 +67,7 @@
                     src="<?= asset('assets/img/test/dummy_1200.avif') ?>"          
                 >
                 <div>
-                    <h3>Artículo 13 · Variante invertida</h3>
+                    <h3>BRANDING E IDENTIDAD VISUAL</h3>
                     <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Morpheus quaerat optionem, pillula rubra aperiam systema et realitatem.</p>
                     <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Neo eligendi veritatis codicem et simulacrum.</p>
                     <a href="#" class="boton">CTA</a>
@@ -90,7 +90,7 @@
                   src="<?= asset('assets/img/test/dummy_1200.avif') ?>"          
               >
               <div>
-                  <h3>Artículo 13 · Variante 03</h3>
+                  <h3>DISEÑO WEB</h3>
                   <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Zion libertatem defendit dum machinae mundum regunt.</p>
                   <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Agent Smith erroribus reiciendis et systema simulacrum celat.</p>
                   <a href="#" class="boton">CTA</a>
@@ -113,7 +113,7 @@
                     src="<?= asset('assets/img/test/dummy_1200.avif') ?>"          
                 >
                 <div>
-                    <h3>Artículo 13 · Variante invertida</h3>
+                    <h3>DISEÑO Y ESTAMPADO TEXTIL</h3>
                     <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Morpheus quaerat optionem, pillula rubra aperiam systema et realitatem.</p>
                     <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Neo eligendi veritatis codicem et simulacrum.</p>
                     <a href="#" class="boton">CTA</a>

@@ -5,6 +5,7 @@ return [
     'lang_default' => env('LANG_DEFAULT', 'es'),
     'global_routes' => [
         // comentar cuando subamos a producción para que no exista una url de showroom
+        
         '/showroom' => [
             'view' => 'showroom.php',
             'resources' => 'src/assets/js/showroom.js',
@@ -32,6 +33,7 @@ return [
                 'view' => 'equipo.php',
                 'resources' => 'src/assets/js/equipo.js',
             ],
+            
             '/es/legal' => [
                 'view' => 'legal.php',
                 'resources' => 'src/assets/js/legal.js',

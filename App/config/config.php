@@ -32,6 +32,7 @@ return [
                 'view' => 'equipo.php',
                 'resources' => 'src/assets/js/equipo.js',
             ],
+            
             '/es/legal' => [
                 'view' => 'legal.php',
                 'resources' => 'src/assets/js/legal.js',

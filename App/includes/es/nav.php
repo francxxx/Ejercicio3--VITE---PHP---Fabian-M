@@ -5,7 +5,7 @@
 <nav class="nav01" data-nav01>
   <div class="nav01__inner">
     <a class="nav01__brand" href="/es" aria-label="Ir al inicio">
-      <span class="nav01__logo" aria-hidden="true">FM</span>
+      <img class="enlaces01__icon" src="<?= asset('assets/img/icons/taza.png') ?>" alt="">
       <span class="nav01__brandText">fracefamosa</span>
     </a>
 

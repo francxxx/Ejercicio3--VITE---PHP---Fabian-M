@@ -18,9 +18,9 @@
       <img class="header01__media" src="<?= asset('assets/img/test/office.avif') ?>" alt="Escena de Matrix">
       <div class="header01__content">
         
-        <h1>Showroom de resources</h1>
-        <p class="header01__text">Matrix ipsum dolor sit amet, consectetur adipisicing elit. Neo eligendi veritatis codicem et simulacrum.</p>
-        <a href="#showroom-recursos" class="boton">Ver recursos</a>
+        <h1>Fabian Cedano Mongrut</h1>
+        <p class="header01__text">Bienvenido a un lugar donde la imaginación no tiene límites y donde cada proyecto representa una nueva oportunidad para marcar la diferencia.</p>
+        <a href="#showroom-recursos" class="boton">CLICK AQUI</a>
       </div>
     </header>
 
@@ -31,8 +31,11 @@
         <!-- Art14 -->
         <article class="art14">
           <div class="content">
-            <h2>Presentación de la empresa</h2>
-            <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Neo eligendi veritatis codicem et simulacrum. Morpheus quaerat optionem, pillula rubra aperiam systema et realitatem. Agent Smith recusandae Zion, dum machinae architecto mundum regunt et Trinity viam demonstrat.</p>
+            <h2>FRACEFAMOSA</h2>
+            <p>Soy Diseñador Gráfico y Diseñador de Estampados con más de 25 años de experiencia en los sectores gráfico y textil. A lo largo de mi trayectoria he desarrollado proyectos para diferentes marcas y empresas, transformando ideas en propuestas visuales creativas, funcionales y de alto impacto.
+            Mi experiencia abarca el diseño de identidad corporativa, publicidad, material editorial, packaging, ilustración y el desarrollo de estampados para moda y textiles. Combino creatividad, técnica y conocimiento de los procesos de producción para garantizar resultados que mantienen la calidad desde el concepto inicial hasta la impresión o fabricación final.
+            Me apasiona crear diseños que transmitan identidad, comuniquen con claridad y aporten valor a cada proyecto. Trabajo con un enfoque orientado a la innovación, el detalle y la mejora continua, adaptándome a las tendencias del mercado y a las necesidades específicas de cada cliente.
+            Cada proyecto representa una oportunidad para desarrollar soluciones visuales únicas que conecten con las personas y fortalezcan la imagen de una marca.</p>
             <img src="<?= asset('assets/img/test/dummy01.avif') ?>" alt="Escena de Matrix">
           </div>
         </article>

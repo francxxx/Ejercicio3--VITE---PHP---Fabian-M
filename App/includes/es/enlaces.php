@@ -65,7 +65,7 @@
 
   <li class="enlaces01__item">
     <a class="enlaces01__link" href="/es/contacto">
-      <img class="enlaces01__icon" src="<?= asset('assets/img/icons/contacto.png') ?>" alt="">
+      <img class="enlaces01__icon" src="<?= asset('assets/img/icons/movile-contacts-filled.svg') ?>" alt="">
       <span>Contacto</span>
     </a>
   </li>

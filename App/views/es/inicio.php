@@ -18,7 +18,7 @@
       <img class="header01__media" src="<?= asset('assets/img/test/office.avif') ?>" alt="Escena de Matrix">
       <div class="header01__content">
         
-        <h1>Fabian Cedano Mongrut 2026</h1>
+        <h1>Fabian Cedano Mongrut 2026 00</h1>
         <p class="header01__text">Bienvenido a un lugar donde la imaginación no tiene límites y donde cada proyecto representa una nueva oportunidad para marcar la diferencia.</p>
         <a href="#showroom-recursos" class="boton">CLICK AQUI</a>
       </div>

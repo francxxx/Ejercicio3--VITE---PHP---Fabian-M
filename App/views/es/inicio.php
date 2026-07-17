@@ -18,7 +18,7 @@
       <img class="header01__media" src="<?= asset('assets/img/test/office.avif') ?>" alt="Escena de Matrix">
       <div class="header01__content">
         
-        <h1>Fabian Cedano Mongrut 2026 00 77</h1>
+        <h1>Fabian Cedano Mongrut</h1>
         <p class="header01__text">Bienvenido a un lugar donde la imaginación no tiene límites y donde cada proyecto representa una nueva oportunidad para marcar la diferencia.</p>
         <a href="#showroom-recursos" class="boton">CLICK AQUI</a>
       </div>
@@ -32,18 +32,17 @@
         <article class="art14">
           <div class="content">
             <h2>FRACEFAMOSA</h2>
-            <p>Soy Diseñador Gráfico y Diseñador de Estampados con más de 25 años de experiencia en los sectores gráfico y textil. A lo largo de mi trayectoria he desarrollado proyectos para diferentes marcas y empresas, transformando ideas en propuestas visuales creativas, funcionales y de alto impacto.
-            Mi experiencia abarca el diseño de identidad corporativa, publicidad, material editorial, packaging, ilustración y el desarrollo de estampados para moda y textiles. Combino creatividad, técnica y conocimiento de los procesos de producción para garantizar resultados que mantienen la calidad desde el concepto inicial hasta la impresión o fabricación final.
-            Me apasiona crear diseños que transmitan identidad, comuniquen con claridad y aporten valor a cada proyecto. Trabajo con un enfoque orientado a la innovación, el detalle y la mejora continua, adaptándome a las tendencias del mercado y a las necesidades específicas de cada cliente.
-            Cada proyecto representa una oportunidad para desarrollar soluciones visuales únicas que conecten con las personas y fortalezcan la imagen de una marca.</p>
-            <img src="<?= asset('assets/img/test/dummy01.avif') ?>" alt="Escena de Matrix">
+            <p>Soy Diseñador Gráfico, Diseñador Web y Diseñador Textil, con más de 20 años de experiencia en el sector gráfico y textil. A lo largo de mi trayectoria he desarrollado proyectos de identidad corporativa, diseño editorial, publicidad, desarrollo web y creación de estampados para la industria de la moda, combinando creatividad, innovación y un enfoque estratégico en cada proyecto.
+
+            Mi experiencia me permite transformar ideas en soluciones visuales funcionales y atractivas, adaptadas a las necesidades de cada cliente. Me apasiona crear diseños que comuniquen, inspiren y generen impacto, integrando las últimas tendencias con una sólida base técnica y un compromiso constante con la calidad y la excelencia.</p>
+            <img src="<?= asset('assets/img/test/inicio fra.avif') ?>" alt="diseño">
           </div>
         </article>
       </section>
 
       <section>
         <!-- sección de servicios -->
-        <h2>Nuestros servicios</h2>
+        <h2>Esto es lo que hago...</h2>
 
         <!-- Artículo 13-->
         <!-- Servicio de pintor -->
@@ -52,20 +51,19 @@
                 alt="" 
                 title=""
                 srcset="
-                <?= asset('assets/img/test/dummy_1800.avif') ?> 1800w,
-                <?= asset('assets/img/test/dummy_1200.avif') ?> 1200w
+                <?= asset('assets/img/test/diseño3.avif') ?> 1800w,
+                <?= asset('assets/img/test/diseño2.avif') ?> 1200w
                 "
                 sizes="
                 (max-width:800px) 900px,
                 1500px
                 "
-                src="<?= asset('assets/img/test/dummy_1200.avif') ?>"          
+                src="<?= asset('assets/img/test/diseño2.avif') ?>"          
             >
             <div>
-                <h3>servicio de pintor</h3>
-                <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Neo eligendi veritatis codicem et simulacrum. Morpheus quaerat optionem, pillula rubra aperiam systema et realitatem.</p>
-                <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Agent Smith erroribus reiciendis et Zion libertatem defendit.</p>
-                <a href="#" class="boton">CTA</a>
+                <h3>DISEÑO GRÁFICO</h3>
+                <p>Un diseñador gráfico utiliza herramientas digitales y conocimientos de composición, color, tipografía y creatividad para crear piezas visuales que informen, inspiren o persuadan. Además de la estética, busca resolver problemas de comunicación y fortalecer la identidad de marcas, empresas e instituciones.</p>
+                <a href="#" class="boton">LEER MÁS</a>
             </div>
         </article>
 
@@ -76,20 +74,40 @@
                 alt="" 
                 title=""
                 srcset="
-                <?= asset('assets/img/test/dummy_1800.avif') ?> 1800w,
-                <?= asset('assets/img/test/dummy_1200.avif') ?> 1200w
+                <?= asset('assets/img/test/textil3.avif') ?> 1800w,
+                <?= asset('assets/img/test/textil2.avif') ?> 1200w
                 "
                 sizes="
                 (max-width:800px) 900px,
                 1500px
                 "
-                src="<?= asset('assets/img/test/dummy_1200.avif') ?>"          
+                src="<?= asset('assets/img/test/textil2.avif') ?>"          
             >
             <div>
-                <h3>Restaurador de muebles</h3>
-                <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Morpheus quaerat optionem, pillula rubra aperiam systema et realitatem.</p>
-                <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Neo eligendi veritatis codicem et simulacrum.</p>
-                <a href="#" class="boton">CTA</a>
+                <h3>DISEÑO TEXTIL</h3>
+                <p>Su objetivo es combinar creatividad, funcionalidad y técnica para crear diseños originales que respondan a las tendencias del mercado, las necesidades de los clientes y los procesos de producción. Un diseñador textil trabaja con colores, formas, ilustraciones y materiales para desarrollar colecciones que aporten identidad y valor a una marca o producto.</p>
+                <a href="#" class="boton">LEER MÁS</a>
+            </div>
+        </article>
+
+        <article class="art13">
+            <img
+                alt="" 
+                title=""
+                srcset="
+                <?= asset('assets/img/test/web3.avif') ?> 1800w,
+                <?= asset('assets/img/test/web2.avif') ?> 1200w
+                "
+                sizes="
+                (max-width:800px) 900px,
+                1500px
+                "
+                src="<?= asset('assets/img/test/web2.avif') ?>"          
+            >
+            <div>
+                <h3>DISEÑO WEB</h3>
+                <p>Un diseñador web es el profesional encargado de crear la apariencia visual, la estructura y la experiencia de usuario de un sitio web. Su objetivo es desarrollar páginas atractivas, funcionales y fáciles de navegar, garantizando que la información sea clara y accesible desde cualquier dispositivo.</p>
+                <a href="#" class="boton">LEER MÁS</a>
             </div>
         </article>
 

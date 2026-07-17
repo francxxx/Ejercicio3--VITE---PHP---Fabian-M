@@ -12,7 +12,7 @@
   </li>
 
   <li class="enlaces01__item">
-    <a class="enlaces01__link" href="/es/quien-soy">
+    <a class="enlaces01__link" href="/es/mis-proyectos">
       <img class="enlaces01__icon" src="<?= asset('assets/img/icons/yo.png') ?>" alt="">
       <span>Quien soy</span>
     </a>
@@ -21,7 +21,7 @@
   <!-- Este item contiene un segundo nivel de navegación. -->
   <li class="enlaces01__item enlaces01__item--hasSubmenu" data-nav01-submenu-item>
     <div class="enlaces01__submenuHeader">
-      <a class="enlaces01__link enlaces01__link--parent" href="/es/servicios">
+      <a class="enlaces01__link enlaces01__link--parent" href="/es/mis-servicios">
         <img class="enlaces01__icon" src="<?= asset('assets/img/icons/services.png') ?>" alt="">
         <span>Mis servicios</span>
       </a>

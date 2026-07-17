@@ -33,6 +33,35 @@ return [
                 'view' => 'equipo.php',
                 'resources' => 'src/assets/js/equipo.js',
             ],
+
+            '/es/mis-servicios' => [
+                'view' => 'servicios.php',
+                'resources' => 'src/assets/js/servicios.js',
+            ],
+
+            
+            '/es/mis-servicios/diseno-grafico' => [
+                'view' => 'servicio1.php',
+                'resources' => 'src/assets/js/servicio.js',
+            ],
+
+            '/es/mis-servicios/diseno-web' => [
+                'view' => 'servicio2.php',
+                'resources' => 'src/assets/js/servicio.js',
+            ],
+
+            '/es/mis-servicios/branding-identidad-visual' => [
+                'view' => 'servicio3.php',
+                'resources' => 'src/assets/js/servicio.js',
+            ],
+
+            '/es/mis-servicios/diseno-textil' => [
+                'view' => 'servicio4.php',
+                'resources' => 'src/assets/js/servicio.js',
+            ],
+
+
+            
             
             '/es/legal' => [
                 'view' => 'legal.php',

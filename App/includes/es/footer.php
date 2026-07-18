@@ -16,9 +16,9 @@
     <section class="footer01__column" aria-labelledby="footer01-legal-title-es">
       <h2 class="footer01__title" id="footer01-legal-title-es">Legal</h2>
       <ul class="footer01__list">
-        <li><a class="footer01__link" href="/es/legal#aviso-legal">Aviso legal</a></li>
-        <li><a class="footer01__link" href="/es/legal#politica-privacidad">Política de privacidad</a></li>
-        <li><a class="footer01__link" href="/es/legal#gestion-cookies">Gestión de cookies</a></li>
+        <li><a class="footer01__link" href="/es/legal#aviso-legal">AVISO LEGAL</a></li>
+        <li><a class="footer01__link" href="/es/legal#politica-privacidad">POLÍTICA DE PRIVACIDAD</a></li>
+        <li><a class="footer01__link" href="/es/legal#gestion-cookies">GESTIÓN DE COOKIES</a></li>
       </ul>
     </section>
 

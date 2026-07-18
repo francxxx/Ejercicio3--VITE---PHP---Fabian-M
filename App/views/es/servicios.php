@@ -18,7 +18,7 @@
 
                 <h2>Mis servicios</h2>
                 <!-- Artículo 13-->
-                <article class="art13">
+            <article class="art13">
                     <img
                         alt="" 
                         title=""
@@ -38,7 +38,7 @@
                         <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Agent Smith erroribus reiciendis et Zion libertatem defendit.</p>
                         <a href="#" class="boton">CTA</a>
                     </div>
-                </article>
+            </article>
 
               <!-- Artículo 13 invertido -->
                 <article class="art13 upsidedown">

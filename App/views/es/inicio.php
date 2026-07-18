@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <link rel="icon" type="image/svg+xml" href="<?= asset('favicon.svg') ?>">
     <link rel="canonical" href="<?= url('/') ?>">
-    <title>Nuestra panaderia</title>
+    <title>Diseño</title>
     <meta name="description" content="Panaderia y pasteleria artesana con panes, bolleria y productos recien hechos.">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,7 +18,7 @@
       <img class="header01__media" src="<?= asset('assets/img/test/office.avif') ?>" alt="Escena de Matrix">
       <div class="header01__content">
         
-        <h1>Fabian Cedano Mongrut</h1>
+        <h1>Fabian Mongrut</h1>
         <p class="header01__text">Bienvenido a un lugar donde la imaginación no tiene límites y donde cada proyecto representa una nueva oportunidad para marcar la diferencia.</p>
         <a href="#showroom-recursos" class="boton">CLICK AQUI</a>
       </div>
@@ -32,7 +32,7 @@
                 <article class="art14">
                 <div class="content">
                     <h2>FRACEFAMOSA</h2>
-                    <p>Soy Diseñador Gráfico, Diseñador Web y Diseñador Textil, con más de 20 años de experiencia en el sector gráfico y textil. A lo largo de mi trayectoria he desarrollado proyectos de identidad corporativa, diseño editorial, publicidad, desarrollo web y creación de estampados para la industria de la moda, combinando creatividad, innovación y un enfoque estratégico en cada proyecto.
+                    <p>Me llamo Fabian Mongrut, soy Diseñador Gráfico, Diseñador Web y Diseñador Textil, con más de 20 años de experiencia en el sector gráfico y textil. A lo largo de mi trayectoria he desarrollado proyectos de identidad corporativa, diseño editorial, publicidad, desarrollo web y creación de estampados para la industria de la moda, combinando creatividad, innovación y un enfoque estratégico en cada proyecto.
 
                     Mi experiencia me permite transformar ideas en soluciones visuales funcionales y atractivas, adaptadas a las necesidades de cada cliente. Me apasiona crear diseños que comuniquen, inspiren y generen impacto, integrando las últimas tendencias con una sólida base técnica y un compromiso constante con la calidad y la excelencia.</p>
                     <img src="<?= asset('assets/img/test/inicio fra.avif') ?>" alt="diseño">
@@ -41,11 +41,11 @@
             </section>
 
             <section>
-                <!-- sección de servicios -->
-                <h2>Esto es lo que hago...</h2>
+                
+                <h2>ESTO ES LO QUE HAGO...</h2>
 
                 <!-- Artículo 13-->
-                <!-- Servicio de pintor -->
+               
                 <article class="art13">
                     <img
                         alt="" 
@@ -117,7 +117,7 @@
                 <!-- artForm02 ajax -->
                 <article class="artForm02">          
 
-                    <h2>Contacta con nosotros</h2>
+                    <h2>CONTACTA CON NOSOTROS</h2>
                     <div>
                         <div class="contenedor-form">
                         

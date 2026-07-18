@@ -14,12 +14,12 @@
     <?php require app_path('includes/es/nav.php'); ?>
     
     <header class="header02">
-        <img class="header02__media" src="<?= asset('assets/img/test/dummy02.avif') ?>" alt="Escena de Matrix">
+        <img class="header02__media" src="<?= asset('assets/img/test/contacto.webp') ?>" alt="Escena">
         <div class="header02__content">
-        <p class="header02__eyebrow">Header 02</p>
-        <h3 class="header02__title">Header 02</h3>
-        <p class="header02__text">Matrix ipsum dolor sit amet, consectetur adipisicing elit. Morpheus quaerat optionem et realitatem.</p>
-        <a href="#showroom-recursos" class="boton">Continuar</a>
+        <p class="header02__eyebrow">¡Hola!</p>
+        <h3 class="header02__title">Contáctate conmigo</h3>
+        <p class="header02__text">DESCUBRE EL MUNDO DEL DISEÑO!</p>
+        
         </div>
     </header>
 
@@ -28,134 +28,39 @@
         <section>
 
             <h2>Mis servicios</h2>
-            <!-- Artículo 13-->
-            <article class="art13">
-                <img
-                    alt="" 
-                    title=""
-                    srcset="
-                    <?= asset('assets/img/test/dummy_1800.avif') ?> 1800w,
-                    <?= asset('assets/img/test/dummy_1200.avif') ?> 1200w
-                    "
-                    sizes="
-                    (max-width:800px) 900px,
-                    1500px
-                    "
-                    src="<?= asset('assets/img/test/dummy_1200.avif') ?>"          
-                >
-                <div>
-                    <h3>DISEÑO GRÁFICO</h3>
-                    <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Neo eligendi veritatis codicem et simulacrum. Morpheus quaerat optionem, pillula rubra aperiam systema et realitatem.</p>
-                    <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Agent Smith erroribus reiciendis et Zion libertatem defendit.</p>
-                    <a href="#" class="boton">CTA</a>
-                </div>
-            </article>
-
-          <!-- Artículo 13 invertido -->
-            <article class="art13 upsidedown">
-                <img
-                    alt="" 
-                    title=""
-                    srcset="
-                    <?= asset('assets/img/test/dummy_1800.avif') ?> 1800w,
-                    <?= asset('assets/img/test/dummy_1200.avif') ?> 1200w
-                    "
-                    sizes="
-                    (max-width:800px) 900px,
-                    1500px
-                    "
-                    src="<?= asset('assets/img/test/dummy_1200.avif') ?>"          
-                >
-                <div>
-                    <h3>BRANDING E IDENTIDAD VISUAL</h3>
-                    <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Morpheus quaerat optionem, pillula rubra aperiam systema et realitatem.</p>
-                    <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Neo eligendi veritatis codicem et simulacrum.</p>
-                    <a href="#" class="boton">CTA</a>
-                </div>
-            </article>
-
-          <!-- Artículo 13 -->
-          <article class="art13">
-              <img
-                  alt="" 
-                  title=""
-                  srcset="
-                  <?= asset('assets/img/test/dummy_1800.avif') ?> 1800w,
-                  <?= asset('assets/img/test/dummy_1200.avif') ?> 1200w
-                  "
-                  sizes="
-                  (max-width:800px) 900px,
-                  1500px
-                  "
-                  src="<?= asset('assets/img/test/dummy_1200.avif') ?>"          
-              >
-              <div>
-                  <h3>DISEÑO WEB</h3>
-                  <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Zion libertatem defendit dum machinae mundum regunt.</p>
-                  <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Agent Smith erroribus reiciendis et systema simulacrum celat.</p>
-                  <a href="#" class="boton">CTA</a>
-              </div>
-          </article>
-
-          <!-- Artículo 13 invertido -->
-            <article class="art13 upsidedown">
-                <img
-                    alt="" 
-                    title=""
-                    srcset="
-                    <?= asset('assets/img/test/dummy_1800.avif') ?> 1800w,
-                    <?= asset('assets/img/test/dummy_1200.avif') ?> 1200w
-                    "
-                    sizes="
-                    (max-width:800px) 900px,
-                    1500px
-                    "
-                    src="<?= asset('assets/img/test/dummy_1200.avif') ?>"          
-                >
-                <div>
-                    <h3>DISEÑO Y ESTAMPADO TEXTIL</h3>
-                    <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Morpheus quaerat optionem, pillula rubra aperiam systema et realitatem.</p>
-                    <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Neo eligendi veritatis codicem et simulacrum.</p>
-                    <a href="#" class="boton">CTA</a>
-                </div>
-            </article>
-
-        </section>
-
-        <section>
               <!-- Artículo 11 -->
           <article class="art11">
               
               <div>
-                  <img src="<?= asset('assets/img/test/dummy01.avif') ?>" alt="Escena de Matrix">
+                  <img src="<?= asset('assets/img/test/1901 azul 1.avif') ?>" alt="diseños1">
               </div>
 
               <div>
-                  <img src="<?= asset('assets/img/test/dummy02.avif') ?>" alt="Escena de Matrix">
+                  <img src="<?= asset('assets/img/test/dummy02.avif') ?>" alt="diseños1">
               </div>
 
               <div>
-                  <img src="<?= asset('assets/img/test/dummy03.avif') ?>" alt="Escena de Matrix">
+                  <img src="<?= asset('assets/img/test/dummy03.avif') ?>" alt="diseños1">
               </div>
 
               <div>
-                  <img src="<?= asset('assets/img/test/dummy04.avif') ?>" alt="Escena de Matrix">
+                  <img src="<?= asset('assets/img/test/dummy04.avif') ?>" alt="diseños1">
               </div>
 
               <div>
-                  <img src="<?= asset('assets/img/test/dummy01.avif') ?>" alt="Escena de Matrix">
+                  <img src="<?= asset('assets/img/test/dummy01.avif') ?>" alt="diseños1">
               </div>
 
               <div>
-                  <img src="<?= asset('assets/img/test/dummy02.avif') ?>" alt="Escena de Matrix">
+                  <img src="<?= asset('assets/img/test/dummy02.avif') ?>" alt="diseños1">
               </div>
 
               <div>
-                  <img src="<?= asset('assets/img/test/dummy03.avif') ?>" alt="Escena de Matrix">
+                  <img src="<?= asset('assets/img/test/dummy03.avif') ?>" alt="diseños1">
               </div>
 
               <div>
-                  <img src="<?= asset('assets/img/test/dummy04.avif') ?>" alt="Escena de Matrix">
+                  <img src="<?= asset('assets/img/test/dummy04.avif') ?>" alt="diseños1">
               </div>
 
           </article>

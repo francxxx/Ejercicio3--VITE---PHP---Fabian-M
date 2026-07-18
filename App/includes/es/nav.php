@@ -5,8 +5,8 @@
 <nav class="nav01" data-nav01>
   <div class="nav01__inner">
     <a class="nav01__brand" href="/es" aria-label="Ir al inicio">
-      <img class="enlaces01__icon" src="<?= asset('assets/img/test/fracefamosa.png') ?>" alt="">
-      <span class="nav01__brandText">fracefamosa</span>
+      <img class="" src="<?= asset('assets/img/test/fracefamosa.png') ?>" alt="logo">
+     
     </a>
 
     <button class="nav01__toggle" type="button" aria-controls="nav01-menu-es" aria-expanded="false" aria-label="Abrir menú" data-nav01-toggle data-nav01-label-open="Abrir menú" data-nav01-label-close="Cerrar menú">

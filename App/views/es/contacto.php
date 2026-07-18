@@ -27,8 +27,7 @@
 
         <section>
 
-            <h2>Mis servicios</h2>
-              <!-- Artículo 11 -->
+            
           <article class="art11">
               
               <div>
@@ -36,15 +35,15 @@
               </div>
 
               <div>
-                  <img src="<?= asset('assets/img/test/dummy02.avif') ?>" alt="diseños1">
+                  <img src="<?= asset('assets/img/test/logosok.avif') ?>" alt="diseños1">
               </div>
 
               <div>
-                  <img src="<?= asset('assets/img/test/dummy03.avif') ?>" alt="diseños1">
+                  <img src="<?= asset('assets/img/test/mural 1.avif') ?>" alt="diseños1">
               </div>
 
               <div>
-                  <img src="<?= asset('assets/img/test/dummy04.avif') ?>" alt="diseños1">
+                  <img src="<?= asset('assets/img/test/estampado 1.avif') ?>" alt="diseños1">
               </div>
 
               <div>

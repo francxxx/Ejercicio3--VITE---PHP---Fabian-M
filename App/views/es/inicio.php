@@ -68,7 +68,7 @@
                 </article>
 
                 <!-- Artículo 13 invertido -->
-                <!-- servicio de restaurador -->
+                
                 <article class="art13 upsidedown">
                     <img
                         alt="" 
@@ -242,25 +242,25 @@
                             <li>
                             <a href="tel:+34943123123" target="_blank">
                                 <img src="<?= asset('assets/img/icons/tel.svg') ?>" alt="" title="">
-                                <span>943 123 123</span>
+                                <span>688 781 514</span>
                             </a>
                             </li>
                             <li>
                             <a href="mailto:aranaz@webda.eus" target="_blank">
                                 <img src="<?= asset('assets/img/icons/mail-solid.svg') ?>" alt="" title="">
-                                <span>aranaz@webda.eus</span>
+                                <span>francocedano35@gmail.com</span>
                             </a>
                             </li>
                             <li>
                             <a href="https://wa.me/628749350" target="_blank">
                                 <img src="<?= asset('assets/img/icons/wa.svg') ?>" alt="" title="">
-                                <span>628 749 350</span>
+                                <span>688 781 514</span>
                             </a>
                             </li>
                             <li>
                             <a href="https://maps.app.goo.gl/Kh7rZM3WF1chSZSj7" target="_blank">
                                 <img src="<?= asset('assets/img/icons/map-pin-solid.svg') ?>" alt="" title="">
-                                <span>C/ Juan Fermín, Juan F. Gilisagasti Kalea, 4, 1º, 20018 Donostia / San Sebastián, Gipuzkoa</span>
+                                <span>Av. Carlos I, Edificio 15, Piso 6-"B", 20011 Donostia / San Sebastián, Gipuzkoa</span>
                             </a>
                             </li>
                         </ul>

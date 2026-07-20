@@ -16,7 +16,7 @@
         <main>
           <section>
 
-                <h2>Mis servicios</h2>
+                <h2>SERVICIOS</h2>
                 <!-- Artículo 13-->
                 <article class="art13">
                         <img

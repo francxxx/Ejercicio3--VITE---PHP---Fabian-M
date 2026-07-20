@@ -39,7 +39,7 @@
         </a>
         <p class="footer01__text">
           <img class="footer01__icon" src="<?= asset('assets/img/icons/pin.svg') ?>" alt="">
-          <span>Calle Ejemplo 1, 00000 Ciudad</span>
+          <span>Av. Carlos I, Edificio 15, Piso 6-"B", 20011 Donostia / San Sebastián, Gipuzkoa</span>
         </p>
       </address>
     </section>

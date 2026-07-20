@@ -17,7 +17,7 @@
         <img class="header02__media" src="<?= asset('assets/img/test/contacto.webp') ?>" alt="Escena">
         <div class="header02__content">
         <p class="header02__eyebrow">¡Hola!</p>
-        <h3 class="header02__title">Contáctate conmigo</h3>
+        <h3 class="header02__title">Contacta CONMIGO!</h3>
         <p class="header02__text">DESCUBRE EL MUNDO DEL DISEÑO!</p>
         
         </div>
@@ -47,7 +47,7 @@
               </div>
 
               <div>
-                  <img src="<?= asset('assets/img/test/dummy01.avif') ?>" alt="diseños1">
+                  <img src="<?= asset('assets/img/test/tag.avif') ?>" alt="diseños1">
               </div>
 
               <div>
@@ -55,11 +55,11 @@
               </div>
 
               <div>
-                  <img src="<?= asset('assets/img/test/dummy03.avif') ?>" alt="diseños1">
+                  <img src="<?= asset('assets/img/test/calat33.avif') ?>" alt="diseños1">
               </div>
 
               <div>
-                  <img src="<?= asset('assets/img/test/dummy04.avif') ?>" alt="diseños1">
+                  <img src="<?= asset('assets/img/test/fra.avif') ?>" alt="diseños1">
               </div>
 
           </article>
@@ -67,11 +67,11 @@
            
         <section>
 
-            <h2>CONTÁCTATE CON NOSOTROS</h2>
+            <h2>CONTACTA con NOSOTROS</h2>
             <!-- artForm02 ajax -->
             <article class="artForm02">          
 
-                <h3>artForm02</h3>
+                <h3>ESCRIBENOS</h3>
                 <div>
                     <div class="contenedor-form">
                     
@@ -196,25 +196,25 @@
                         <li>
                         <a href="tel:+34943123123" target="_blank">
                             <img src="<?= asset('assets/img/icons/tel.svg') ?>" alt="" title="">
-                            <span>943 123 123</span>
+                            <span>688 781 514</span>
                         </a>
                         </li>
                         <li>
                         <a href="mailto:aranaz@webda.eus" target="_blank">
                             <img src="<?= asset('assets/img/icons/mail-solid.svg') ?>" alt="" title="">
-                            <span>aranaz@webda.eus</span>
+                            <span>francocedano35@gmail.com</span>
                         </a>
                         </li>
                         <li>
                         <a href="https://wa.me/628749350" target="_blank">
                             <img src="<?= asset('assets/img/icons/wa.svg') ?>" alt="" title="">
-                            <span>628 749 350</span>
+                            <span>688 781 514</span>
                         </a>
                         </li>
                         <li>
                         <a href="https://maps.app.goo.gl/Kh7rZM3WF1chSZSj7" target="_blank">
                             <img src="<?= asset('assets/img/icons/map-pin-solid.svg') ?>" alt="" title="">
-                            <span>C/ Juan Fermín, Juan F. Gilisagasti Kalea, 4, 1º, 20018 Donostia / San Sebastián, Gipuzkoa</span>
+                            <span>Av. Carlos I, Edificio 15, Piso 6-"B", 20011 Donostia / San Sebastián, Gipuzkoa</span>
                         </a>
                         </li>
                     </ul>

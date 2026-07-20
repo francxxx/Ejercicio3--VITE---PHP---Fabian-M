@@ -9,7 +9,7 @@
       <?php
       // Se reutiliza el listado para no mantener dos menús diferentes.
       $idSubmenu = 'footer-servicios-es';
-      require app_path('includes/es/enlaces.php');
+      require app_path('includes/es/enlaces.php');    
       ?>
     </section>
 

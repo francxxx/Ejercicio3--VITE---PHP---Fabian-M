@@ -23,20 +23,24 @@
                             alt="" 
                             title=""
                             srcset="
-                            <?= asset('assets/img/test/dummy_1800.avif') ?> 1800w,
-                            <?= asset('assets/img/test/dummy_1200.avif') ?> 1200w
+                            <?= asset('assets/img/test/dg1.avif') ?> 1800w,
+                            <?= asset('assets/img/test/dg.avif') ?> 1200w
                             "
                             sizes="
                             (max-width:800px) 900px,
                             1500px
                             "
-                            src="<?= asset('assets/img/test/dummy_1200.avif') ?>"          
+                            src="<?= asset('assets/img/test/dg2.avif') ?>"          
                         >
                         <div>
                             <h3>DISEÑO GRÁFICO</h3>
-                            <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Neo eligendi veritatis codicem et simulacrum. Morpheus quaerat optionem, pillula rubra aperiam systema et realitatem.</p>
-                            <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Agent Smith erroribus reiciendis et Zion libertatem defendit.</p>
-                            <a href="#" class="boton">CTA</a>
+                            <p>Un diseñador gráfico con 20 años de experiencia es un profesional con una amplia trayectoria en el desarrollo de conceptos visuales, identidad corporativa, publicidad, diseño editorial, packaging y comunicación visual.
+
+                            A lo largo de su carrera ha adquirido un profundo conocimiento de las herramientas, técnicas y procesos creativos del diseño, combinando experiencia, creatividad y capacidad de adaptación a las nuevas tendencias y tecnologías. Su trabajo no consiste únicamente en crear imágenes atractivas, sino en comunicar ideas, transmitir emociones y resolver visualmente las necesidades de cada proyecto.
+
+                            Un diseñador gráfico con esta trayectoria representa la combinación entre conocimiento, creatividad, evolución y pasión por el diseño, convirtiendo cada proyecto en una oportunidad para comunicar de manera efectiva y dejar una huella visual.</p>
+                            
+                            <a href="#" class="boton"></a>
                         </div>
                 </article>
 
@@ -46,20 +50,21 @@
                         alt="" 
                         title=""
                         srcset="
-                        <?= asset('assets/img/test/dummy_1800.avif') ?> 1800w,
-                        <?= asset('assets/img/test/dummy_1200.avif') ?> 1200w
+                        <?= asset('assets/img/test/branding1.avif') ?> 1800w,
+                        <?= asset('assets/img/test/branding2.avif') ?> 1200w
                         "
                         sizes="
                         (max-width:800px) 900px,
                         1500px
                         "
-                        src="<?= asset('assets/img/test/dummy_1200.avif') ?>"          
+                        src="<?= asset('assets/img/test/branding3.avif') ?>"          
                     >
                     <div>
                         <h3>BRANDING E IDENTIDAD VISUAL</h3>
-                        <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Morpheus quaerat optionem, pillula rubra aperiam systema et realitatem.</p>
-                        <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Neo eligendi veritatis codicem et simulacrum.</p>
-                        <a href="#" class="boton">CTA</a>
+                        <p>El branding y la identidad visual son elementos fundamentales para construir la personalidad y el reconocimiento de una marca. El branding define la esencia, los valores y la forma en que una empresa quiere conectar con su público, mientras que la identidad visual transforma esa esencia en elementos gráficos como el logotipo, los colores, la tipografía y el estilo visual.
+
+                        Una identidad visual bien desarrollada permite transmitir profesionalidad, coherencia y confianza, logrando que una marca sea fácilmente reconocible y memorable. A través del diseño, cada elemento visual comunica quién es la marca y qué la hace diferente.</p>
+                        <a href="#" class="boton"></a>
                     </div>
                 </article>
 

@@ -74,20 +74,19 @@
                         alt="" 
                         title=""
                         srcset="
-                        <?= asset('assets/img/test/dummy_1800.avif') ?> 1800w,
-                        <?= asset('assets/img/test/dummy_1200.avif') ?> 1200w
+                        <?= asset('assets/img/test/web.avif') ?> 1800w,
+                        <?= asset('assets/img/test/web.avif') ?> 1200w
                         "
                         sizes="
                         (max-width:800px) 900px,
                         1500px
                         "
-                        src="<?= asset('assets/img/test/dummy_1200.avif') ?>"          
+                        src="<?= asset('assets/img/test/web.avif') ?>"          
                     >
                     <div>
                         <h3>DISEÑO WEB</h3>
-                        <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Zion libertatem defendit dum machinae mundum regunt.</p>
-                        <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Agent Smith erroribus reiciendis et systema simulacrum celat.</p>
-                        <a href="#" class="boton">CTA</a>
+                        <p>El diseño web es la disciplina encargada de planificar, crear y organizar la apariencia y el funcionamiento visual de un sitio web. Su objetivo es ofrecer una experiencia atractiva, intuitiva y accesible para los usuarios, combinando aspectos como la distribución de los elementos, la tipografía, los colores, las imágenes y la navegación. Un buen diseño web no solo mejora la estética de una página, sino que también facilita el acceso a la información, fortalece la identidad de una marca y contribuye a alcanzar los objetivos del sitio, ya sea informar, vender productos o prestar servicios.</p>
+                         <a href="#" class="boton"></a>
                     </div>
                 </article>
 
@@ -97,23 +96,23 @@
                         alt="" 
                         title=""
                         srcset="
-                        <?= asset('assets/img/test/dummy_1800.avif') ?> 1800w,
-                        <?= asset('assets/img/test/dummy_1200.avif') ?> 1200w
+                        <?= asset('assets/img/test/textil.avif') ?> 1800w,
+                        <?= asset('assets/img/test/textil.avif') ?> 1200w
                         "
                         sizes="
                         (max-width:800px) 900px,
                         1500px
                         "
-                        src="<?= asset('assets/img/test/dummy_1200.avif') ?>"          
+                        src="<?= asset('assets/img/test/textil.avif') ?>"          
                     >
                     <div>
                         <h3>DISEÑO Y ESTAMPADO TEXTIL</h3>
-                        <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Morpheus quaerat optionem, pillula rubra aperiam systema et realitatem.</p>
-                        <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Neo eligendi veritatis codicem et simulacrum.</p>
-                        <a href="#" class="boton">CTA</a>
+                        <p>El diseño textil es una disciplina creativa que se enfoca en la creación de estampados, tejidos, colores y texturas para la fabricación de telas utilizadas en la moda, la decoración y otros productos. Combina conocimientos de arte, diseño y tecnología para desarrollar materiales que sean tanto funcionales como estéticamente atractivos. Además de aportar identidad y valor a los productos, el diseño textil actualmente incorpora prácticas sostenibles e innovaciones que buscan reducir el impacto ambiental de la industria.</p>
+                        <a href="#" class="boton"></a>
                     </div>
                 </article>
 
+                
         </section>
     </main>
 

@@ -5,7 +5,7 @@
 <nav class="nav01" data-nav01>
   <div class="nav01__inner">
     <a class="nav01__brand" href="/es" aria-label="Ir al inicio">
-      <img class="" src="<?= asset('assets/img/test/fracefamosa.png') ?>" alt="logo">
+      <img class="" src="<?= asset('assets/img/test/face.png') ?>" alt="logo">
      
     </a>
 

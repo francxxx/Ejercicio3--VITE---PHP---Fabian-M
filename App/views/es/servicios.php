@@ -18,27 +18,27 @@
 
                 <h2>Mis servicios</h2>
                 <!-- Artículo 13-->
-            <article class="art13">
-                    <img
-                        alt="" 
-                        title=""
-                        srcset="
-                        <?= asset('assets/img/test/dummy_1800.avif') ?> 1800w,
-                        <?= asset('assets/img/test/dummy_1200.avif') ?> 1200w
-                        "
-                        sizes="
-                        (max-width:800px) 900px,
-                        1500px
-                        "
-                        src="<?= asset('assets/img/test/dummy_1200.avif') ?>"          
-                    >
-                    <div>
-                        <h3>DISEÑO GRÁFICO</h3>
-                        <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Neo eligendi veritatis codicem et simulacrum. Morpheus quaerat optionem, pillula rubra aperiam systema et realitatem.</p>
-                        <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Agent Smith erroribus reiciendis et Zion libertatem defendit.</p>
-                        <a href="#" class="boton">CTA</a>
-                    </div>
-            </article>
+                <article class="art13">
+                        <img
+                            alt="" 
+                            title=""
+                            srcset="
+                            <?= asset('assets/img/test/dummy_1800.avif') ?> 1800w,
+                            <?= asset('assets/img/test/dummy_1200.avif') ?> 1200w
+                            "
+                            sizes="
+                            (max-width:800px) 900px,
+                            1500px
+                            "
+                            src="<?= asset('assets/img/test/dummy_1200.avif') ?>"          
+                        >
+                        <div>
+                            <h3>DISEÑO GRÁFICO</h3>
+                            <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Neo eligendi veritatis codicem et simulacrum. Morpheus quaerat optionem, pillula rubra aperiam systema et realitatem.</p>
+                            <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Agent Smith erroribus reiciendis et Zion libertatem defendit.</p>
+                            <a href="#" class="boton">CTA</a>
+                        </div>
+                </article>
 
               <!-- Artículo 13 invertido -->
                 <article class="art13 upsidedown">
@@ -64,27 +64,27 @@
                 </article>
 
               <!-- Artículo 13 -->
-              <article class="art13">
-                  <img
-                      alt="" 
-                      title=""
-                      srcset="
-                      <?= asset('assets/img/test/dummy_1800.avif') ?> 1800w,
-                      <?= asset('assets/img/test/dummy_1200.avif') ?> 1200w
-                      "
-                      sizes="
-                      (max-width:800px) 900px,
-                      1500px
-                      "
-                      src="<?= asset('assets/img/test/dummy_1200.avif') ?>"          
-                  >
-                  <div>
-                      <h3>DISEÑO WEB</h3>
-                      <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Zion libertatem defendit dum machinae mundum regunt.</p>
-                      <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Agent Smith erroribus reiciendis et systema simulacrum celat.</p>
-                      <a href="#" class="boton">CTA</a>
-                  </div>
-              </article>
+                <article class="art13">
+                    <img
+                        alt="" 
+                        title=""
+                        srcset="
+                        <?= asset('assets/img/test/dummy_1800.avif') ?> 1800w,
+                        <?= asset('assets/img/test/dummy_1200.avif') ?> 1200w
+                        "
+                        sizes="
+                        (max-width:800px) 900px,
+                        1500px
+                        "
+                        src="<?= asset('assets/img/test/dummy_1200.avif') ?>"          
+                    >
+                    <div>
+                        <h3>DISEÑO WEB</h3>
+                        <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Zion libertatem defendit dum machinae mundum regunt.</p>
+                        <p>Matrix ipsum dolor sit amet, consectetur adipisicing elit. Agent Smith erroribus reiciendis et systema simulacrum celat.</p>
+                        <a href="#" class="boton">CTA</a>
+                    </div>
+                </article>
 
               <!-- Artículo 13 invertido -->
                 <article class="art13 upsidedown">
@@ -109,7 +109,7 @@
                     </div>
                 </article>
 
-          </section>
+        </section>
     </main>
 
     <?php require app_path('includes/es/footer.php'); ?>

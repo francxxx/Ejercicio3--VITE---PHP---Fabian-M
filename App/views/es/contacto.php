@@ -35,11 +35,11 @@
               </div>
 
               <div>
-                  <img src="<?= asset('assets/img/test/logosok.avif') ?>" alt="diseños1">
+                  <img src="<?= asset('assets/img/test/mural 1.avif') ?>" alt="diseños1">
               </div>
 
               <div>
-                  <img src="<?= asset('assets/img/test/mural 1.avif') ?>" alt="diseños1">
+                  <img src="<?= asset('assets/img/test/logosok.avif') ?>" alt="diseños1">
               </div>
 
               <div>
@@ -51,7 +51,7 @@
               </div>
 
               <div>
-                  <img src="<?= asset('assets/img/test/dummy02.avif') ?>" alt="diseños1">
+                  <img src="<?= asset('assets/img/test/logokids.avif') ?>" alt="diseños1">
               </div>
 
               <div>

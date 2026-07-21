@@ -15,6 +15,7 @@
 
     <main>
       <section>
+
             <article class="art03">
               <h3>FABIAN C. MONGRUT</h3>
                 <p>Soy Fabián Mongrut, diseñador gráfico con 20 años de experiencia en el apasionante mundo de la comunicación visual y el diseño. A lo largo de mi trayectoria profesional he tenido la oportunidad de desarrollar proyectos en diferentes áreas del diseño, creando soluciones visuales que combinan creatividad, estrategia, funcionalidad y una sólida identidad estética.
@@ -27,7 +28,6 @@
         
               <img src="<?= asset('assets/img/test/soy.avif') ?>" alt="perfil" title="">
             </article>
-
 
             <!-- Artículo 06 -->
             <article class="art06">
@@ -102,7 +102,7 @@
             </article>
 
             <h2>CONTACTA con NOSOTROS</h2>
-            
+
             <!-- artForm02 ajax -->
             <article class="artForm02">          
 

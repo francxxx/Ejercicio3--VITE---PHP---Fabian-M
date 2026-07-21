@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <link rel="icon" type="image/svg+xml" href="<?= asset('favicon.svg') ?>">
     <link rel="canonical" href="<?= url('/contacto') ?>">
-    <title>Contacta con nuestra panaderia</title>
-    <meta name="description" content="Contacta con nuestra panaderia para consultas, pedidos y encargos de panaderia y pasteleria.">
+    <title>Contacta con el diseñador</title>
+    <meta name="description" content="Contacta con la persona indicada para que tus diseños crescan">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= vite_tags($route['resources'] ?? null) ?>
@@ -24,46 +24,6 @@
     </header>
 
     <main>
-
-        <section>
-
-            
-          <article class="art11">
-              
-              <div>
-                  <img src="<?= asset('assets/img/test/1901 azul 1.avif') ?>" alt="diseños1">
-              </div>
-
-              <div>
-                  <img src="<?= asset('assets/img/test/mural 1.avif') ?>" alt="diseños1">
-              </div>
-
-              <div>
-                  <img src="<?= asset('assets/img/test/logosok.avif') ?>" alt="diseños1">
-              </div>
-
-              <div>
-                  <img src="<?= asset('assets/img/test/estampado 1.avif') ?>" alt="diseños1">
-              </div>
-
-              <div>
-                  <img src="<?= asset('assets/img/test/tag.avif') ?>" alt="diseños1">
-              </div>
-
-              <div>
-                  <img src="<?= asset('assets/img/test/logokids.avif') ?>" alt="diseños1">
-              </div>
-
-              <div>
-                  <img src="<?= asset('assets/img/test/calat33.avif') ?>" alt="diseños1">
-              </div>
-
-              <div>
-                  <img src="<?= asset('assets/img/test/fra.avif') ?>" alt="diseños1">
-              </div>
-
-          </article>
-        </section>
            
         <section>
 

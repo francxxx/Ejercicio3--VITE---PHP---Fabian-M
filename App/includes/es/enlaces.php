@@ -25,42 +25,8 @@
         <img class="enlaces01__icon" src="<?= asset('assets/img/icons/services.png') ?>" alt="">
         <span>Mis servicios</span>
       </a>
-      <button class="enlaces01__submenuToggle" type="button" aria-controls="<?= e($idSubmenu) ?>" aria-expanded="false" aria-label="Abrir submenú Servicios" data-nav01-submenu-toggle data-nav01-label-open="Abrir submenú" data-nav01-label-close="Cerrar submenú" data-nav01-submenu-label="Servicios">
-        <img class="enlaces01__chevron" src="<?= asset('assets/img/icons/flecha.png') ?>" alt="">
-      </button>
+      
     </div>
-
-    <ul class="enlaces01__submenu" id="<?= e($idSubmenu) ?>" data-nav01-submenu>
-
-      <li class="enlaces01__item">
-        <a class="enlaces01__link enlaces01__link--child" href="/es/servicios/diseño">
-          <img class="enlaces01__icon" src="<?= asset('assets/img/icons/diseño.png') ?>" alt="">
-          <span>Diseño Gráfico</span>
-        </a>
-      </li>
-
-      <li class="enlaces01__item">
-        <a class="enlaces01__link enlaces01__link--child" href="/es/servicios/branding">
-          <img class="enlaces01__icon" src="<?= asset('assets/img/icons/iden.png') ?>" alt="">
-          <span>Branding e Identidad Visual</span>
-        </a>
-      </li>
-
-      <li class="enlaces01__item">
-        <a class="enlaces01__link enlaces01__link--child" href="/es/servicios/web">
-          <img class="enlaces01__icon" src="<?= asset('assets/img/icons/web.png') ?>" alt="">
-          <span>Diseño Web</span>
-        </a>
-      </li>
-
-      <li class="enlaces01__item">
-        <a class="enlaces01__link enlaces01__link--child" href="/es/servicios/textil">
-          <img class="enlaces01__icon" src="<?= asset('assets/img/icons/textil.png') ?>" alt="">
-          <span>Diseño Textil</span>
-        </a>
-      </li>
-
-    </ul>
   </li>
 
   <li class="enlaces01__item">

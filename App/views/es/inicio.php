@@ -18,7 +18,7 @@
       <img class="header01__media" src="<?= asset('assets/img/test/office.avif') ?>" alt="Escena de Matrix">
       <div class="header01__content">
         
-        <h1>Fabian Mongrut</h1>
+        <h1>Fabian C. Mongrut</h1>
         <p class="header01__text">Bienvenido a un lugar donde la imaginación no tiene límites y donde cada proyecto representa una nueva oportunidad para marcar la diferencia.</p>
         <a href="#showroom-recursos" class="boton">CLICK AQUI</a>
       </div>
@@ -31,7 +31,7 @@
                 <!-- Art14 -->
                 <article class="art14">
                 <div class="content">
-                    <h2>FRACEFAMOSA</h2>
+                    <h2>FABIAN C. MONGRUT</h2>
                     <p>Me llamo Fabian Mongrut, soy Diseñador Gráfico, Diseñador Web y Diseñador Textil, con más de 20 años de experiencia en el sector gráfico y textil. A lo largo de mi trayectoria he desarrollado proyectos de identidad corporativa, diseño editorial, publicidad, desarrollo web y creación de estampados para la industria de la moda, combinando creatividad, innovación y un enfoque estratégico en cada proyecto.
 
                     Mi experiencia me permite transformar ideas en soluciones visuales funcionales y atractivas, adaptadas a las necesidades de cada cliente. Me apasiona crear diseños que comuniquen, inspiren y generen impacto, integrando las últimas tendencias con una sólida base técnica y un compromiso constante con la calidad y la excelencia.</p>

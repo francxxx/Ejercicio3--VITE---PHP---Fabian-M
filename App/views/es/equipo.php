@@ -76,29 +76,29 @@
 
            
             <article class="art09">
-              <h3>CONCEPTOS DE DISEÑO</h3>
-              <div class="art09-content">
-                <div class="contenedor-lista">
-                  <h4>ºAyuda a lograr que un diseño sea funcional</h4>
-                  <ul>
-                    <li><img src="<?= asset('assets/img/icons/checkmark-circle.svg') ?>" alt="" title=""><span>Equilibrio.</span></li>
-                    <li><img src="<?= asset('assets/img/icons/checkmark-circle.svg') ?>" alt="" title=""><span>Contraste.</span></li>
-                    <li><img src="<?= asset('assets/img/icons/checkmark-circle.svg') ?>" alt="" title=""><span>Énfasis.</span></li>
-                    <li><img src="<?= asset('assets/img/icons/checkmark-circle.svg') ?>" alt="" title=""><span>Proporción.</span></li>
-                    <li><img src="<?= asset('assets/img/icons/checkmark-circle.svg') ?>" alt="" title=""><span>Jerarquía visual.</span></li>
-                  </ul>
-                </div>
-                <div class="contenedor-lista">
-                  <h4>ºComunica el mensaje deseado.</h4>
-                  <ul>
-                    <li><img src="<?= asset('assets/img/icons/checkmark-circle.svg') ?>" alt="" title=""><span>Tipografía.</span></li>
-                    <li><img src="<?= asset('assets/img/icons/checkmark-circle.svg') ?>" alt="" title=""><span>Funcionalidad.</span></li>
-                    <li><img src="<?= asset('assets/img/icons/checkmark-circle.svg') ?>" alt="" title=""><span>Alineación.</span></li>
-                    <li><img src="<?= asset('assets/img/icons/checkmark-circle.svg') ?>" alt="" title=""><span>Unidad.</span></li>
-                    <li><img src="<?= asset('assets/img/icons/checkmark-circle.svg') ?>" alt="" title=""><span>Color.</span></li>
-                  </ul>
-                </div>
-              </div>
+                    <h3>CONCEPTOS DE DISEÑO</h3>
+                    <div class="art09-content">
+                        <div class="contenedor-lista">
+                        <h4>ºAyuda a lograr que un diseño sea funcional</h4>
+                        <ul>
+                            <li><img src="<?= asset('assets/img/icons/checkmark-circle.svg') ?>" alt="" title=""><span>Equilibrio.</span></li>
+                            <li><img src="<?= asset('assets/img/icons/checkmark-circle.svg') ?>" alt="" title=""><span>Contraste.</span></li>
+                            <li><img src="<?= asset('assets/img/icons/checkmark-circle.svg') ?>" alt="" title=""><span>Énfasis.</span></li>
+                            <li><img src="<?= asset('assets/img/icons/checkmark-circle.svg') ?>" alt="" title=""><span>Proporción.</span></li>
+                            <li><img src="<?= asset('assets/img/icons/checkmark-circle.svg') ?>" alt="" title=""><span>Jerarquía visual.</span></li>
+                        </ul>
+                        </div>
+                        <div class="contenedor-lista">
+                        <h4>ºComunica el mensaje deseado.</h4>
+                        <ul>
+                            <li><img src="<?= asset('assets/img/icons/checkmark-circle.svg') ?>" alt="" title=""><span>Tipografía.</span></li>
+                            <li><img src="<?= asset('assets/img/icons/checkmark-circle.svg') ?>" alt="" title=""><span>Funcionalidad.</span></li>
+                            <li><img src="<?= asset('assets/img/icons/checkmark-circle.svg') ?>" alt="" title=""><span>Alineación.</span></li>
+                            <li><img src="<?= asset('assets/img/icons/checkmark-circle.svg') ?>" alt="" title=""><span>Unidad.</span></li>
+                            <li><img src="<?= asset('assets/img/icons/checkmark-circle.svg') ?>" alt="" title=""><span>Color.</span></li>
+                        </ul>
+                        </div>
+                    </div>
             </article>
 
             <h2>CONTACTA con NOSOTROS</h2>

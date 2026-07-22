@@ -67,8 +67,6 @@
                     </div>
                 </article>
 
-                <!-- Artículo 13 invertido -->
-                
                 <article class="art13 upsidedown">
                     <img
                         alt="" 

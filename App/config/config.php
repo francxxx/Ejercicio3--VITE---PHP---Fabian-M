@@ -19,6 +19,7 @@ return [
     ],
 
     'routes' => [
+        
         'es' => [
             '/es' => [
                 'view' => 'inicio.php',
@@ -39,7 +40,6 @@ return [
                 'resources' => 'src/assets/js/servicios.js',
             ],
 
-            
             '/es/legal' => [
                 'view' => 'legal.php',
                 'resources' => 'src/assets/js/legal.js',
@@ -50,23 +50,34 @@ return [
                 'resources' => 'src/assets/js/404.js',
             ],
         ],
+
+
         'eu' => [
             '/eu' => [
                 'view' => 'inicio.php',
                 'resources' => 'src/assets/js/inicio.js',
             ],
+
             '/eu/kontaktua' => [
                 'view' => 'contacto.php',
                 'resources' => 'src/assets/js/contacto.js',
             ],
+
             '/eu/nere-proiektuak' => [
                 'view' => 'equipo.php',
                 'resources' => 'src/assets/js/equipo.js',
             ],
+
+            '/eu/nire-zerbitzuak' => [
+                'view' => 'servicios.php',
+                'resources' => 'src/assets/js/servicios.js',
+            ],
+
             '/eu/lege-oharra' => [
                 'view' => 'legal.php',
                 'resources' => 'src/assets/js/legal.js',
             ],
+
             '/eu/404' => [
                 'view' => '404.php',
                 'resources' => 'src/assets/js/404.js',

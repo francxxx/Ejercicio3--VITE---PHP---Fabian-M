@@ -5,8 +5,7 @@
 <nav class="nav01" data-nav01>
   <div class="nav01__inner">
     <a class="nav01__brand" href="/eu" aria-label="Hasierara joan">
-      <span class="nav01__logo" aria-hidden="true">LS</span>
-      <span class="nav01__brandText">Liquid Stack</span>
+      <img class="" src="<?= asset('assets/img/test/face.png') ?>" alt="logo">
     </a>
 
     <button class="nav01__toggle" type="button" aria-controls="nav01-menu-eu" aria-expanded="false" aria-label="Menua ireki" data-nav01-toggle data-nav01-label-open="Menua ireki" data-nav01-label-close="Menua itxi">
@@ -25,9 +24,14 @@
         ?>
 
         <div class="nav01__langs" aria-label="Hizkuntzak">
+
+
           <!-- Para mantener el ejemplo sencillo, cada idioma enlaza a su inicio. -->
-          <a class="nav01__lang" href="/es" lang="es" hreflang="es">ES</a>
-          <a class="nav01__lang is-active" href="/eu" lang="eu" hreflang="eu" aria-current="true">EU</a>
+
+          <a class="nav01__lang" href="<?= e(ruta_homologa($url ?? null, 'es')) ?>" lang="es" hreflang="es" title="Ver esta página en castellano">ES</a>
+ 
+          <a class="nav01__lang is-active" href="<?= e(ruta_homologa($url ?? null, 'eu')) ?>" lang="eu" hreflang="eu" aria-current="true" title="Ikusi orri hau euskaraz">EU</a>
+
         </div>
       </div>
     </div>

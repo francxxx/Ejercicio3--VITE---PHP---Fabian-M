@@ -27,11 +27,11 @@
       <address class="footer01__address">
         <a class="footer01__link" href="tel:+34000000000">
           <img class="footer01__icon" src="<?= asset('assets/img/icons/phone.svg') ?>" alt="">
-          <span>+34 000 000 000</span>
+          <span>+34 688 781 524</span>
         </a>
         <a class="footer01__link" href="mailto:hola@ejemplo.com">
           <img class="footer01__icon" src="<?= asset('assets/img/icons/mail.svg') ?>" alt="">
-          <span>hola@ejemplo.com</span>
+          <span>francocedano35@gmail.com</span>
         </a>
         <a class="footer01__link" href="https://www.google.com/maps/search/?api=1&query=Calle+Ejemplo+1" target="_blank" rel="noopener noreferrer">
           <img class="footer01__icon" src="<?= asset('assets/img/icons/map.svg') ?>" alt="">
@@ -39,13 +39,13 @@
         </a>
         <p class="footer01__text">
           <img class="footer01__icon" src="<?= asset('assets/img/icons/pin.svg') ?>" alt="">
-          <span>Calle Ejemplo 1, 00000 Ciudad</span>
+          <span>Av. Carlos I, 15. eraikina, 6. solairua-"B", 20011 Donostia / San Sebastián, Gipuzkoa</span>
         </p>
       </address>
     </section>
   </div>
 
   <div class="footer01__bottom">
-    <p>xxxx-ek garatua. &copy; <?= date('Y') ?> Eskubide guztiak erreserbatuta.</p>
+    <p>Fracelemosak garatua &copy; <?= date('Y') ?> Eskubide guztiak erreserbatuta.</p>
   </div>
 </footer>

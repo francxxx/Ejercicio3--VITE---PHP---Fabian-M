@@ -26,8 +26,12 @@
 
         <div class="nav01__langs" aria-label="Idiomas">
           <!-- Para mantener el ejemplo sencillo, cada idioma enlaza a su inicio. -->
-          <a class="nav01__lang is-active" href="/es" lang="es" hreflang="es" aria-current="true">ES</a>
-          <a class="nav01__lang" href="/eu" lang="eu" hreflang="eu">EU</a>
+
+
+          <a class="nav01__lang" href="<?= e(ruta_homologa($url ?? null, 'es')) ?>" lang="es" hreflang="es" title="Ver esta página en castellano">ES</a>
+ 
+          <a class="nav01__lang is-active" href="<?= e(ruta_homologa($url ?? null, 'eu')) ?>" lang="eu" hreflang="eu" aria-current="true" title="Ikusi orri hau euskaraz">EU</a>
+
         </div>
       </div>
     </div>

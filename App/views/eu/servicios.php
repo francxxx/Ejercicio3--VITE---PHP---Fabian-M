@@ -3,21 +3,21 @@
   <head>
     <meta charset="UTF-8">
     <link rel="icon" type="image/svg+xml" href="<?= asset('favicon.svg') ?>">
-    <link rel="canonical" href="<?= url('/productos') ?>">
-    <title>servicios</title>
-    <meta name="description" content="Descubre nuestros servicios que tenemos para ti.">
+    <link rel="canonical" href="<?= url('/zerbitzuak/pintorea') ?>">
+    <title>Producto 1</title>
+    <meta name="description" content="Detalle del producto 1 de nuestra panaderia.">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= vite_tags($route['resources'] ?? null) ?>
   </head>
   <body>
-    <?php require app_path('includes/es/nav.php'); ?>
+    <?php require app_path('includes/eu/nav.php'); ?>
 
-        <main>
+           <main>
             <section>
 
 
-                <h2>SERVICIOS</h2>
+                <h2>ZERBITZUAK</h2>
                 <!-- Artículo 13-->
                 <article class="art13">
                         <img
@@ -34,12 +34,12 @@
                             src="<?= asset('assets/img/test/dg2.avif') ?>"          
                         >
                         <div>
-                            <h3>DISEÑO GRÁFICO</h3>
-                            <p>Un diseñador gráfico con 20 años de experiencia es un profesional con una amplia trayectoria en el desarrollo de conceptos visuales, identidad corporativa, publicidad, diseño editorial, packaging y comunicación visual.
+                            <h3>DISEINU GRAFIKOA</h3>
+                            <p>20 urteko esperientzia duen diseinatzaile grafikoa kontzeptu bisualak, identitate korporatiboa, publizitatea, diseinu editoriala, ontziak eta komunikazio bisuala garatzen esperientzia zabala duen profesionala da.
 
-                            A lo largo de su carrera ha adquirido un profundo conocimiento de las herramientas, técnicas y procesos creativos del diseño, combinando experiencia, creatividad y capacidad de adaptación a las nuevas tendencias y tecnologías. Su trabajo no consiste únicamente en crear imágenes atractivas, sino en comunicar ideas, transmitir emociones y resolver visualmente las necesidades de cada proyecto.
+                            Beren ibilbide profesionalean zehar, diseinu tresnen, tekniken eta sormen prozesuen ulermen sakona eskuratu dute, esperientzia, sormena eta joera eta teknologia berrietara egokitzeko gaitasuna konbinatuz. Beren lana ez da irudi erakargarriak sortzea soilik, baizik eta ideiak komunikatzea, emozioak transmititzea eta proiektu bakoitzaren beharrei bisualki erantzutea.
 
-                            Un diseñador gráfico con esta trayectoria representa la combinación entre conocimiento, creatividad, evolución y pasión por el diseño, convirtiendo cada proyecto en una oportunidad para comunicar de manera efectiva y dejar una huella visual.</p>
+                            Esperientzia maila honetako diseinatzaile grafiko batek ezagutza, sormena, bilakaera eta diseinuarekiko grina konbinatzen ditu, proiektu bakoitza eraginkortasunez komunikatzeko eta eragin bisual iraunkorra uzteko aukera bihurtuz.</p>
                             
                             <a href="#" class="boton"></a>
                         </div>
@@ -61,10 +61,10 @@
                         src="<?= asset('assets/img/test/branding3.avif') ?>"          
                     >
                     <div>
-                        <h3>BRANDING E IDENTIDAD VISUAL</h3>
-                        <p>El branding y la identidad visual son elementos fundamentales para construir la personalidad y el reconocimiento de una marca. El branding define la esencia, los valores y la forma en que una empresa quiere conectar con su público, mientras que la identidad visual transforma esa esencia en elementos gráficos como el logotipo, los colores, la tipografía y el estilo visual.
+                        <h3>MARKA ETA IDENTITATE BISUALA</h3>
+                        <p>Marka-marka eta identitate bisuala funtsezko elementuak dira marka baten nortasuna eta aitortza eraikitzeko. Markak funtsa, balioak eta enpresa batek bere publikoarekin nola konektatu nahi duen definitzen ditu, identitate bisualak, berriz, funtsa elementu grafikoetan eraldatzen du, hala nola logotipoan, koloreetan, tipografian eta estilo bisualean.
 
-                        Una identidad visual bien desarrollada permite transmitir profesionalidad, coherencia y confianza, logrando que una marca sea fácilmente reconocible y memorable. A través del diseño, cada elemento visual comunica quién es la marca y qué la hace diferente.</p>
+                        Identitate bisual ondo garatutako batek profesionaltasuna, koherentzia eta konfiantza transmititzen ditu, marka erraz ezagutu eta gogoangarria bihurtuz. Diseinuaren bidez, elementu bisual bakoitzak marka nor den eta zerk egiten duen bakarra komunikatzen du.</p>
                         <a href="#" class="boton"></a>
                     </div>
                 </article>
@@ -85,8 +85,8 @@
                         src="<?= asset('assets/img/test/web.avif') ?>"          
                     >
                     <div>
-                        <h3>DISEÑO WEB</h3>
-                        <p>El diseño web es la disciplina encargada de planificar, crear y organizar la apariencia y el funcionamiento visual de un sitio web. Su objetivo es ofrecer una experiencia atractiva, intuitiva y accesible para los usuarios, combinando aspectos como la distribución de los elementos, la tipografía, los colores, las imágenes y la navegación. Un buen diseño web no solo mejora la estética de una página, sino que también facilita el acceso a la información, fortalece la identidad de una marca y contribuye a alcanzar los objetivos del sitio, ya sea informar, vender productos o prestar servicios.</p>
+                        <h3>WEB DISEINUA</h3>
+                        <p>Web diseinua webgune baten itxura eta funtzionalitate bisuala planifikatzeaz, sortzeaz eta antolatzeaz arduratzen den diziplina da. Bere helburua erabiltzaileentzako esperientzia erakargarria, intuitiboa eta eskuragarria eskaintzea da, elementuen diseinua, tipografia, koloreak, irudiak eta nabigazioa bezalako alderdiak konbinatuz. Web diseinu onak ez du orrialde baten estetika hobetzen bakarrik, baita informaziorako sarbidea errazten du, markaren identitatea indartzen du eta gunearen helburuak lortzen laguntzen du, dela informatzea, produktuak saltzea edo zerbitzuak eskaintzea.</p>
                          <a href="#" class="boton"></a>
                     </div>
                 </article>
@@ -107,16 +107,16 @@
                         src="<?= asset('assets/img/test/textil.avif') ?>"          
                     >
                     <div>
-                        <h3>DISEÑO Y ESTAMPADO TEXTIL</h3>
-                        <p>El diseño textil es una disciplina creativa que se enfoca en la creación de estampados, tejidos, colores y texturas para la fabricación de telas utilizadas en la moda, la decoración y otros productos. Combina conocimientos de arte, diseño y tecnología para desarrollar materiales que sean tanto funcionales como estéticamente atractivos. Además de aportar identidad y valor a los productos, el diseño textil actualmente incorpora prácticas sostenibles e innovaciones que buscan reducir el impacto ambiental de la industria.</p>
+                        <h3>EHUNGINTZA DISEINUA ETA INPRIMAKETA</h3>
+                        <p>Ehunen diseinua diziplina sortzailea da, modan, etxeko dekorazioan eta beste produktu batzuetan erabiltzen diren ehunak fabrikatzeko ereduak, ehundurak, koloreak eta ehundurak sortzean oinarritzen dena. Artearen, diseinuaren eta teknologiaren ezagutza konbinatzen ditu funtzionalak eta estetikoki atseginak diren materialak garatzeko. Produktuei nortasuna eta balioa gehitzeaz gain, ehunen diseinuak gaur egun praktika eta berrikuntza iraunkorrak barneratzen ditu, industriaren ingurumen-inpaktua murrizteko helburuarekin.</p>
                         <a href="#" class="boton"></a>
                     </div>
                 </article>
 
-                    <h2>CONTACTA con NOSOTROS</h2>
+                    <h2>JARRI GURAREKIN HARREMANETAN</h2>
                     <!-- artForm02 ajax -->
                 <article class="artForm02">          
-                    <h3>ESCRIBENOS</h3>
+                    <h3>IDATZI IEZAIGUZU</h3>
                     <div>
                         <div class="contenedor-form">
                         
@@ -136,30 +136,30 @@
                             <p class="error" id="errorForm02"></p>
 
                             <!-- nombre -->
-                            <label for="nombreAjax">Nombre *</label>
-                            <input type="text" id="nombreAjax" name="nombre" placeholder="Escribe aquí tu nombre *">
+                            <label for="nombreAjax">Izena *</label>
+                            <input type="text" id="nombreAjax" name="nombre" placeholder="Idatzi zure izena hemen *">
 
                             <!-- teléfono -->
-                            <label for="telefonoAjax">Teléfono *</label>
-                            <input type="tel" id="telefonoAjax" name="telefono" placeholder="Escribe aquí tu teléfono *">
+                            <label for="telefonoAjax">Telefonoa *</label>
+                            <input type="tel" id="telefonoAjax" name="telefono" placeholder="Sartu zure telefono zenbakia hemen *">
 
                             <!-- Correo -->
-                            <label for="emailAjax">Correo Electrónico</label>
-                            <input type="email" id="emailAjax" name="email" placeholder="Escribe aquí tu correo electrónico">
+                            <label for="emailAjax">Posta elektronikoa</label>
+                            <input type="email" id="emailAjax" name="email" placeholder="Idatzi zure helbide elektronikoa hemen">
 
                             <!-- Mensaje -->
-                            <label for="mensajeAjax">Escribe tu mensaje</label>
-                            <textarea name="mensaje" id="mensajeAjax" placeholder="Escribe aquí tu mensaje"></textarea>
+                            <label for="mensajeAjax">Idatzi zure mezua</label>
+                            <textarea name="mensaje" id="mensajeAjax" placeholder="Idatzi zure mezua hemen"></textarea>
 
                             <!-- términos -->
                             <div class="horizontal">
-                            <label for="terminosAjax">Aceptar términos y condiciones de privacidad</label>
+                            <label for="terminosAjax">Onartu pribatutasun baldintzak eta zehaztapenak</label>
                             <input type="checkbox" name="terminos" id="terminosAjax">
                             </div>
                             
 
                             <!-- captcha -->
-                            <label for="respuesta">Resuelve</label>
+                            <label for="respuesta">Ebatzi</label>
                             <div class="horizontal">
                             <span id="num1ajax"></span>
                             <span id="operadorajax"></span>
@@ -259,7 +259,7 @@
                             <li>
                             <a href="https://maps.app.goo.gl/Kh7rZM3WF1chSZSj7" target="_blank">
                                 <img src="<?= asset('assets/img/icons/map-pin-solid.svg') ?>" alt="" title="">
-                                <span>Av. Carlos I, Edificio 15, Piso 6-"B", 20011 Donostia / San Sebastián, Gipuzkoa</span>
+                                <span>Av. Carlos I, 15. eraikina, 6. solairua-"B", 20011 Donostia / San Sebastián, Gipuzkoa</span>
                             </a>
                             </li>
                         </ul>
@@ -272,6 +272,7 @@
             </section>
         </main>
 
-    <?php require app_path('includes/es/footer.php'); ?>
+
+    <?php require app_path('includes/eu/footer.php'); ?>
 </body>
 </html>

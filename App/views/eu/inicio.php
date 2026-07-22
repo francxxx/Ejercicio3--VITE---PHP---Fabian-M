@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <link rel="icon" type="image/svg+xml" href="<?= asset('favicon.svg') ?>">
     <link rel="canonical" href="<?= url('/') ?>">
-    <title>Nuestra panaderia</title>
-    <meta name="description" content="Panaderia y pasteleria artesana con panes, bolleria y productos recien hechos.">
+    <title>diseño</title>
+    <meta name="description" content="diseño grafico para el mundo entero">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= vite_tags($route['resources'] ?? null) ?>
@@ -14,12 +14,12 @@
     <?php require app_path('includes/eu/nav.php'); ?>
 
     <header class="header01">
-      <img class="header01__media" src="<?= asset('assets/img/test/dummy01.avif') ?>" alt="Escena de Matrix">
+      <img class="header01__media" src="<?= asset('assets/img/test/office.avif') ?>" alt="Escena de Matrix">
       <div class="header01__content">
-        <p class="header01__eyebrow">Header 01</p>
-        <h1>Showroom de resources</h1>
-        <p class="header01__text">Matrix ipsum dolor sit amet, consectetur adipisicing elit. Neo eligendi veritatis codicem et simulacrum.</p>
-        <a href="#showroom-recursos" class="boton">Ver recursos</a>
+        
+        <h1>Fabian C. Mongrut</h1>
+        <p class="header01__text">Ongi etorri irudimenak mugarik ez duen eta proiektu bakoitzak aldea eragiteko aukera berri bat den leku batera.</p>
+        <a href="#showroom-recursos" class="boton">KLIKATU HEMEN</a>
       </div>
     </header>
 
@@ -31,9 +31,9 @@
                 <article class="art14">
                 <div class="content">
                     <h2>FABIAN C. MONGRUT</h2>
-                    <p>Me llamo Fabian Mongrut, soy Diseñador Gráfico, Diseñador Web y Diseñador Textil, con más de 20 años de experiencia en el sector gráfico y textil. A lo largo de mi trayectoria he desarrollado proyectos de identidad corporativa, diseño editorial, publicidad, desarrollo web y creación de estampados para la industria de la moda, combinando creatividad, innovación y un enfoque estratégico en cada proyecto.
+                    <p>Fabian Mongrut naiz, eta Diseinatzaile Grafikoa, Web Diseinatzailea eta Ehun Diseinatzailea naiz, 20 urte baino gehiagoko esperientziarekin industria grafiko eta ehungintzan. Nire ibilbide profesionalean zehar, identitate korporatiboko proiektuak, diseinu editoriala, publizitatea, web garapena eta inprimaketa sorkuntza garatu ditut moda industriarentzat, sormena, berrikuntza eta ikuspegi estrategikoa konbinatuz proiektu guztietan.
 
-                    Mi experiencia me permite transformar ideas en soluciones visuales funcionales y atractivas, adaptadas a las necesidades de cada cliente. Me apasiona crear diseños que comuniquen, inspiren y generen impacto, integrando las últimas tendencias con una sólida base técnica y un compromiso constante con la calidad y la excelencia.</p>
+                    Nire esperientziak ideiak irtenbide bisual funtzional eta erakargarri bihurtzeko aukera ematen dit, bezero bakoitzaren beharretara egokituta. Komunikatzen, inspiratzen eta eragina duten diseinuak sortzeaz sutsu nago, azken joerak oinarri tekniko sendo batekin eta kalitatearekiko eta bikaintasunarekiko konpromiso etengabearekin integratuz.</p>
                     <img src="<?= asset('assets/img/test/inicio fra.avif') ?>" alt="diseño">
                 </div>
                 </article>
@@ -41,7 +41,7 @@
 
             <section>
                 
-                <h2>ESTO ES LO QUE HAGO...</h2>
+                <h2>HAU DA NIK EGITEN DUTENA...</h2>
 
                 <!-- Artículo 13-->
                
@@ -60,9 +60,9 @@
                         src="<?= asset('assets/img/test/diseño2.avif') ?>"          
                     >
                     <div>
-                        <h3>DISEÑO GRÁFICO</h3>
-                        <p>Un diseñador gráfico utiliza herramientas digitales y conocimientos de composición, color, tipografía y creatividad para crear piezas visuales que informen, inspiren o persuadan. Además de la estética, busca resolver problemas de comunicación y fortalecer la identidad de marcas, empresas e instituciones.</p>
-                        <a href="#" class="boton">LEER MÁS</a>
+                        <h3>DISEINU GRAFIKOA</h3>
+                        <p>Diseinatzaile grafiko batek tresna digitalak eta konposizioaren, kolorearen, tipografiaren eta sormenaren ezagutza erabiltzen ditu informatzen, inspiratzen edo konbentzitzen duten pieza bisualak sortzeko. Estetikaren haratago, komunikazio arazoak konpontzea eta marken, enpresen eta erakundeen identitatea indartzea bilatzen dute.</p>
+                        <a href="#" class="boton">IRAKURRI GEHIAGO</a>
                     </div>
                 </article>
 
@@ -83,9 +83,9 @@
                         src="<?= asset('assets/img/test/textil2.avif') ?>"          
                     >
                     <div>
-                        <h3>DISEÑO TEXTIL</h3>
-                        <p>Su objetivo es combinar creatividad, funcionalidad y técnica para crear diseños originales que respondan a las tendencias del mercado, las necesidades de los clientes y los procesos de producción. Un diseñador textil trabaja con colores, formas, ilustraciones y materiales para desarrollar colecciones que aporten identidad y valor a una marca o producto.</p>
-                        <a href="#" class="boton">LEER MÁS</a>
+                        <h3>EHUNGINTZA DISEINUA</h3>
+                        <p>Haien helburua sormena, funtzionaltasuna eta teknika konbinatzea da, merkatuaren joerei, bezeroen beharrei eta ekoizpen-prozesuei erantzuten dieten diseinu originalak sortzeko. Ehun-diseinatzaile batek koloreekin, formekin, ilustrazioekin eta materialekin lan egiten du marka edo produktu bati nortasuna eta balioa ematen dioten bildumak garatzeko.</p>
+                        <a href="#" class="boton">IRAKURRI GEHIAGO</a>
                     </div>
                 </article>
 
@@ -104,9 +104,9 @@
                         src="<?= asset('assets/img/test/web2.avif') ?>"          
                     >
                     <div>
-                        <h3>DISEÑO WEB</h3>
-                        <p>Un diseñador web es el profesional encargado de crear la apariencia visual, la estructura y la experiencia de usuario de un sitio web. Su objetivo es desarrollar páginas atractivas, funcionales y fáciles de navegar, garantizando que la información sea clara y accesible desde cualquier dispositivo.</p>
-                        <a href="#" class="boton">LEER MÁS</a>
+                        <h3>WEB DISEINUA</h3>
+                        <p>Web diseinatzailea webgune baten itxura bisuala, egitura eta erabiltzaile esperientzia sortzeaz arduratzen den profesionala da. Bere helburua orrialde erakargarriak, funtzionalak eta nabigatzeko errazak garatzea da, informazioa argia eta edozein gailutatik eskuragarri dagoela ziurtatuz.</p>
+                        <a href="#" class="boton">IRAKURRI GEHIAGO</a>
                     </div>
                 </article>
 
@@ -116,7 +116,7 @@
                 <!-- artForm02 ajax -->
                 <article class="artForm02">          
 
-                    <h2>CONTACTA CON NOSOTROS</h2>
+                    <h2>JARRI GURAREKIN HARREMANETAN</h2>
                     <div>
                         <div class="contenedor-form">
                         
@@ -136,30 +136,30 @@
                             <p class="error" id="errorForm02"></p>
 
                             <!-- nombre -->
-                            <label for="nombreAjax">Nombre *</label>
-                            <input type="text" id="nombreAjax" name="nombre" placeholder="Escribe aquí tu nombre *">
+                            <label for="nombreAjax">Izena *</label>
+                            <input type="text" id="nombreAjax" name="nombre" placeholder="Idatzi zure izena hemen *">
 
                             <!-- teléfono -->
-                            <label for="telefonoAjax">Teléfono *</label>
+                            <label for="telefonoAjax">Telefonoa *</label>
                             <input type="tel" id="telefonoAjax" name="telefono" placeholder="Escribe aquí tu teléfono *">
 
                             <!-- Correo -->
-                            <label for="emailAjax">Correo Electrónico</label>
-                            <input type="email" id="emailAjax" name="email" placeholder="Escribe aquí tu correo electrónico">
+                            <label for="emailAjax">Posta elektronikoa</label>
+                            <input type="email" id="emailAjax" name="email" placeholder="Idatzi zure helbide elektronikoa hemen">
 
                             <!-- Mensaje -->
-                            <label for="mensajeAjax">Escribe tu mensaje</label>
-                            <textarea name="mensaje" id="mensajeAjax" placeholder="Escribe aquí tu mensaje"></textarea>
+                            <label for="mensajeAjax">Idatzi zure mezua</label>
+                            <textarea name="mensaje" id="mensajeAjax" placeholder="Idatzi zure mezua hemen"></textarea>
 
                             <!-- términos -->
                             <div class="horizontal">
-                            <label for="terminosAjax">Aceptar términos y condiciones de privacidad</label>
+                            <label for="terminosAjax">Onartu pribatutasun baldintzak eta zehaztapenak</label>
                             <input type="checkbox" name="terminos" id="terminosAjax">
                             </div>
                             
 
                             <!-- captcha -->
-                            <label for="respuesta">Resuelve</label>
+                            <label for="respuesta">Ebatzi</label>
                             <div class="horizontal">
                             <span id="num1ajax"></span>
                             <span id="operadorajax"></span>
@@ -171,7 +171,7 @@
                             <input type="hidden" name="url" value="<?= e($url) ?>">
                             <input type="hidden" name="lang" value="<?= e($lang) ?>">
 
-                            <input type="submit" class="boton" value="Enviar" id="botonEnviarAjax">
+                            <input type="submit" class="boton" value="Bidali" id="botonEnviarAjax">
                         </form>
                         
                         <div class="moduloLoader01" id="moduloLoader01">
@@ -259,11 +259,11 @@
                             <li>
                             <a href="https://maps.app.goo.gl/Kh7rZM3WF1chSZSj7" target="_blank">
                                 <img src="<?= asset('assets/img/icons/map-pin-solid.svg') ?>" alt="" title="">
-                                <span>Av. Carlos I, Edificio 15, Piso 6-"B", 20011 Donostia / San Sebastián, Gipuzkoa</span>
+                                <span>Av. Carlos I, 15. eraikina, 6. solairua-"B", 20011 Donostia / San Sebastián, Gipuzkoa</span>
                             </a>
                             </li>
                         </ul>
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1886.901188915529!2d-2.0047191655624914!3d43.29790730427824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd51b013f0513629%3A0x57e4ff3311f619d9!2s%C3%81rea%20Escuela%20de%20Dise%C3%B1o%20y%20Nuevas%20Tecnolog%C3%ADas!5e1!3m2!1ses!2ses!4v1768584957042!5m2!1ses!2ses" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d27797.709152200277!2d-2.019280692396988!3d43.29778607870138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sAv.%20Carlos%20I%2C%20Edificio%2015%2C%20Piso%206-%22B%22%2C%2020011%20Donostia%20%2F%20San%20Sebasti%C3%A1n%2C%20Gipuzkoa!5e1!3m2!1ses!2ses!4v1784719392038!5m2!1ses!2ses" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
                         </div>
                     </div>
                 </article>

@@ -31,11 +31,11 @@ $fuenteTextos:'Montserrat';
 $color00: white;
 $color00svg: invert(100%) sepia(100%) saturate(0%) hue-rotate(159deg) brightness(104%) contrast(104%);
 $color00bis: #ebebeb;
-$color01: #3b3b3b;
-$color01bis:rgb(176, 176, 176);
-$color01bis2: rgb(75, 74, 74);
-$color02: #ff0505;
-$color02bis: #ff0505;
+$color01: #686868;
+$color01bis:rgb(201, 200, 200);
+$color01bis2: rgb(185, 183, 183);
+$color02: #da942b;
+$color02bis: #da942b;
 $color02svg: invert(24%) sepia(13%) saturate(2279%) hue-rotate(161deg) brightness(96%) contrast(88%);
 $color03: #666564;
 $color03svg: invert(39%) sepia(100%) saturate(384%) hue-rotate(346deg) brightness(102%) contrast(91%);
@@ -69,7 +69,7 @@ html{
 
 // Aquí estilos de los encabezados h1, h2, h3, etc y de los textos
 h1, h2, h3{
-    font-family: $fuenteTitulos;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1{

@@ -18,10 +18,11 @@ export default defineConfig({
       input: {
         inicio: resolvePath("./src/assets/js/inicio.js"),
         contacto: resolvePath("./src/assets/js/contacto.js"),
+        productos: resolvePath("./src/assets/js/productos.js"),
+        
         equipo: resolvePath("./src/assets/js/equipo.js"),
         legal: resolvePath("./src/assets/js/legal.js"),
-
-       
+        showroom: resolvePath("./src/assets/js/showroom.js"),
       },
       output: {
         entryFileNames: "assets/[name]-[hash].js",

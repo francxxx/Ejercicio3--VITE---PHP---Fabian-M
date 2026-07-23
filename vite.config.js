@@ -4,6 +4,8 @@ import { fileURLToPath } from "node:url";
 const resolvePath = (path) => fileURLToPath(new URL(path, import.meta.url));
 
 export default defineConfig({
+
+  base: "./", 
   server: {
     host: "localhost",
     port: 5173,
@@ -24,6 +26,7 @@ export default defineConfig({
 
         equipo: resolvePath("./src/assets/js/equipo.js"),
         legal: resolvePath("./src/assets/js/legal.js"),
+        404 : resolvePath("./src/assets/js/404.js"),
         showroom: resolvePath("./src/assets/js/showroom.js"),
       },
       output: {

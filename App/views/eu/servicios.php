@@ -14,7 +14,7 @@
   <body>
     <?php require app_path('includes/eu/nav.php'); ?>
 
-           <main>
+        <main>
             <section>
 
 

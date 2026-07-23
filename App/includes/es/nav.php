@@ -28,9 +28,9 @@
           <!-- Para mantener el ejemplo sencillo, cada idioma enlaza a su inicio. -->
 
 
-          <a class="nav01__lang" href="<?= url(ruta_homologa($url ?? null, 'es')) ?>" lang="es" hreflang="es" aria-current="true" title="Ver esta página en castellano">ES</a>
+          <a class="nav01__lang is-active" href="<?= url(ruta_homologa($url ?? null, 'es')) ?>" lang="es" hreflang="es" aria-current="true" title="Ver esta página en castellano">ES</a>
  
-          <a class="nav01__lang is-active" href="<?= url(ruta_homologa($url ?? null, 'eu')) ?>" lang="eu" hreflang="eu"  title="Ikusi orri hau euskaraz">EU</a>
+          <a class="nav01__lang" href="<?= url(ruta_homologa($url ?? null, 'eu')) ?>" lang="eu"  hreflang="eu"  title="Ikusi orri hau euskaraz">EU</a>
 
         </div>
       </div>

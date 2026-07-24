@@ -6,14 +6,14 @@
 <ul class="enlaces01">
   <li class="enlaces01__item">
     <a class="enlaces01__link" href="<?= url('/es') ?>">
-      <img class="enlaces01__icon" src="<?= asset('assets/img/icons/casa.png') ?>" alt="">
+      <img class="enlaces01__icon" src="<?= asset('assets/img/icons/inicio.png') ?>" alt="">
       <span>Hasi</span>
     </a>
   </li>
 
   <li class="enlaces01__item">
     <a class="enlaces01__link" href="<?= url('/es/mis-proyectos') ?>">
-      <img class="enlaces01__icon" src="<?= asset('assets/img/icons/yo.png') ?>" alt="">
+      <img class="enlaces01__icon" src="<?= asset('assets/img/icons/quien.png') ?>" alt="">
       <span>Nor naiz ni?</span>
     </a>
   </li>
@@ -22,7 +22,7 @@
   <li class="enlaces01__item enlaces01__item--hasSubmenu" data-nav01-submenu-item>
     <div class="enlaces01__submenuHeader">
       <a class="enlaces01__link enlaces01__link--parent" href="<?= url('/es/mis-servicios') ?>">
-        <img class="enlaces01__icon" src="<?= asset('assets/img/icons/services.png') ?>" alt="">
+        <img class="enlaces01__icon" src="<?= asset('assets/img/icons/servicios.png') ?>" alt="">
         <span>Nire zerbitzuak</span>
       </a>
       
@@ -31,7 +31,7 @@
 
   <li class="enlaces01__item">
     <a class="enlaces01__link" href="<?= url('/es/contacto') ?>">
-      <img class="enlaces01__icon" src="<?= asset('assets/img/icons/contac.png') ?>" alt="">
+      <img class="enlaces01__icon" src="<?= asset('assets/img/icons/contactos.png') ?>" alt="">
       <span>Kontaktua</span>
     </a>
   </li>
